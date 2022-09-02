@@ -1,0 +1,15 @@
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.exe
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.deps.json
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.runtimeconfig.json
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.dll
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\bin\Debug\net6.0\LibraryBook.pdb
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.csproj.AssemblyReference.cache
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.AssemblyInfoInputs.cache
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.AssemblyInfo.cs
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.csproj.CoreCompileInputs.cache
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.dll
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\refint\LibraryBook.dll
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.pdb
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\LibraryBook.genruntimeconfig.cache
+C:\Users\khanim.pg\source\repos\LibraryBook\LibraryBook\obj\Debug\net6.0\ref\LibraryBook.dll
