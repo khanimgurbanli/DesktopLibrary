@@ -18,7 +18,6 @@ namespace LibraryBook.Models
     //    }
 
         public static int CounterId { get; set; }
-        public static int CounterCode { get; set; }
         public int Id { get; set; }
         public string Name { get; set; }
         public string AuthorName { get; set; }
